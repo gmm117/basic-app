@@ -44,7 +44,6 @@ I'd like you send me an email at <gmm117@naver.com> about anything you'd want to
 
 This software uses the following open source packages:
 
-- [Electron](http://electron.atom.io/)
 - [webpack](https://webpack.js.org/)
 - [babel](https://babeljs.io/)
 - [npm](https://www.npmjs.com/)
